@@ -1,0 +1,37 @@
+.red {
+	height: 30%;
+	width: 100%;
+	background: red;
+	clear: both;
+}
+
+.yellow {
+	background: yellow;
+	height: 50%;
+	width: 30%;
+	float: left;
+}
+
+.green {
+	background: green;
+	height: 20%;
+	width: 30%;
+	float: left;
+}
+
+.blue {
+	height: 70%;
+	width: 35%;
+	background: blue;
+	float: left;
+}
+
+.bluetwo {
+	height: 70%;
+	width: 35%;
+	background: blue;
+	float: right;
+}
+
+
+
