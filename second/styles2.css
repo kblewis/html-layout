@@ -1,0 +1,26 @@
+.blue {
+	height: 100%;
+	width: 33%;
+	background: blue;
+	float: left;
+}
+
+.red {
+	height: 100%;
+	width: 33%;
+	background: red;
+	float: left;
+}
+
+.black {
+	height: 70%;
+	width: 34%;
+	background: black;
+	float: left;
+}
+
+.picture {
+	height: 30%;
+	width: 34%;
+	float: left;
+}
