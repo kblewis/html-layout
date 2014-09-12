@@ -1,0 +1,73 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.First {
+	font-size: 70px;
+	text-align: center;
+	padding: 35px;
+	height: 30%;
+	width: 20%;
+	background: gray;
+	margin-left: auto;
+	margin-right: auto;
+	float: center;
+	font-family: Helvetica;
+
+}
+
+.Scroll {
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	font-size: 22px;
+	font-family: Helvetica;
+}
+
+.Black {
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+	height: 5%;
+	width: 28%;
+	background: black;
+}
+
+.Red {
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+	height: 5%;
+	width: 28%;
+	background: red;
+}
+
+.Blue {
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+	height: 5%;
+	width: 28%;
+	background: blue;
+}
+
+.Purple {
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+	height: 5%;
+	width: 28%;
+	background: purple;
+}
+
+.Grey {
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+	height: 5%;
+	width: 28%;
+	background: gray;
+}
